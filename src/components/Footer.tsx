@@ -74,7 +74,7 @@ function Footer() {
           <h2 className="text-white text-lg font-semibold mb-4">Contact Us</h2>
           <p>Kolkata, India</p>
           <p>Kolkata 700048</p>
-          <p>Email: chores@gmail.com</p>
+          <p>Email: chorus@gmail.com</p>
           <p>Phone: (123) 456-7890</p>
         </div>
       </div>
